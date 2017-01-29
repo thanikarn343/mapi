@@ -1,0 +1,3 @@
+set GOROOT=/d/Go
+set GOBIN=/d/Projects/mapi/bin
+set GOPATH=/d/Projects/mapi
